@@ -1,0 +1,25 @@
+/* REGOLE DI DEBUG */
+
+/* [class^='container'] {
+    border: 1px dashed black;
+    background-color: lightblue;
+    min-height: 80vh;
+}
+
+[class^='row'] {
+    border: 1px dashed red;
+}
+
+[class^='col'] {
+    height: 100px;
+    background-color: #f1d2e7;
+    border: 1px solid #d0a8eb;
+} */
+
+.titolo h1,.titolo p{
+    text-align: center;
+}
+
+.cont-w h2, .cont-w p{
+    color: white;
+}
